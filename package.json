@@ -1,0 +1,17 @@
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "final.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@img/sharp-darwin-arm64": "^0.33.0",
+    "axios": "^1.6.2",
+    "prompt-sync": "^4.2.0",
+    "sharp": "^0.33.0"
+  }
+}
