@@ -51,7 +51,6 @@ async function downloadAndConvertToWebP(gDriveLink) {
   }
 }
 
-// Example usage
 const googleDriveLink = prompt('Google Drive Link: ');
 
 downloadAndConvertToWebP(googleDriveLink)
